@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.1",
-    "mocha": "^3.5.0"
+    "mocha": "^7.1.1"
   },
   "scripts": {
     "test": "mocha test",
